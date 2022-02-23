@@ -1,23 +1,24 @@
 {
-  "title": "Senior front-end",
+  "title": "CTO at Infleet",
   "image_cover_url": "",
   "skills": [
     "JavaScript",
-    "Angular",
+    "Typescript",
+    "Elixir",
     "React",
     "PHP",
-    "C#",
+    "Dart",
     "AWS",
     "Nodejs"
   ],
   "social": [
     {
       "name": "LinkedIn",
-      "url": "https://www.linkedin.com/in/paulo-henrique-santos/"
+      "url": "https://www.linkedin.com/in/ro-dolfosilva"
     },
     {
       "name": "Twitter",
-      "url": "https://twitter.com/phfoxer"
+      "url": "https://twitter.com/ro_dolfosilva"
     }
   ],
   "languages": [
@@ -26,23 +27,24 @@
   ],
   "experience": [
     {
-      "company_name": "Google",
-      "occupation": "Senior Front end",
+      "company_name": "Infleet",
+      "occupation": "CTO",
       "stack": [
-        "Go",
+        "Elixir",
         "AWS",
         "CSS",
-        "C#"
+        "React",
+        "Art"
       ],
       "company_image": "https://img1.gratispng.com/20180324/kae/kisspng-google-logo-g-suite-chrome-5ab6e6189d5b63.7354407715219358966445.jpg",
-      "duration": "1 years"
+      "duration": "3 years"
     }
   ],
   "education": [
     {
       "logo": "https://upload.wikimedia.org/wikipedia/pt/2/29/Harvard_Logo.svg.png",
-      "institution": "Harvard",
-      "occupation": "MBA Product Management"
+      "institution": "Devry Ruy Barbosa",
+      "occupation": "BSI"
     }
   ]
 }
